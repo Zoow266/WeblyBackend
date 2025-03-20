@@ -42,4 +42,23 @@ public class AuthController : ControllerBase
 
         return Ok("Login successful.");
     }
+
+    [HttpGet("check")]
+    public IActionResult CheckDatabase()
+    {
+        // Проверяем, есть ли данные в базе данных
+        var usersExist = _context.Users.Any();
+
+        if (usersExist)
+        {
+            // Если данные есть, возвращаем их
+            var users = _context.Users.ToList();
+            return Ok(users);
+        }
+        else
+        {
+            // Если данных нет, возвращаем сообщение "все хорошо"
+            return Ok("Все хорошо, но данных в базе нет.");
+        }
+    }
 }

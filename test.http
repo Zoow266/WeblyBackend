@@ -24,3 +24,6 @@ Content-Type: application/json
 {
     "data": "{\"title\": \"My Site\", \"content\": \"Welcome to my site!\"}"
 }
+
+### Проверка состояния базы данных
+GET http://localhost:5259/api/auth/check

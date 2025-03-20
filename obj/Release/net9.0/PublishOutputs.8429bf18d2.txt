@@ -1,6 +1,12 @@
 C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\WeblyTest2.exe
+C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\publish\web.config
 C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\appsettings.Development.json
 C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\appsettings.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\publish\appsettings.Development.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\publish\appsettings.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\publish\WeblyTest2.deps.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\publish\WeblyTest2.runtimeconfig.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\publish\WeblyTest2.staticwebassets.endpoints.json
 C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\WeblyTest2.dll
 C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\WeblyTest2.runtimeconfig.json
 C:\Users\vladi\Desktop\Projects\WeblyTest2\publish\WeblyTest2.pdb
