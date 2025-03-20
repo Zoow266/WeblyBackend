@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj": {}
+    "C:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj": {
+    "C:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj",
+        "projectUniqueName": "C:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj",
         "projectName": "WeblyTest2",
-        "projectPath": "c:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj",
+        "projectPath": "C:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\WeblyTest2.csproj",
         "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\obj\\",
+        "outputPath": "C:\\Users\\vladi\\Desktop\\Projects\\WeblyTest2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
