@@ -26,5 +26,4 @@ Content-Type: application/json
 }
 
 ### Проверка состояния базы данных
-GET http://localhost:5259/api/auth/check
-
+GET https://weblybackend.onrender.com/api/auth/check
