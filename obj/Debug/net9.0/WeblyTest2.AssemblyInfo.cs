@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeblyTest2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da847c31cbc383448f3214be8254685cc8dc4087")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeblyTest2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeblyTest2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
