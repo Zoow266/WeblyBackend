@@ -151,3 +151,16 @@ C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\tr\Microsoft.CodeAna
 C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\BCrypt.Net-Next.dll
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\web.config
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\web.config
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\appsettings.Development.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\appsettings.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\appsettings.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\WeblyTest2.deps.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\WeblyTest2.runtimeconfig.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\WeblyTest2.staticwebassets.endpoints.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\WeblyTest2.deps.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\WeblyTest2.runtimeconfig.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\WeblyTest2.staticwebassets.endpoints.json
+c:\Users\vladi\Desktop\Projects\WeblyTest2\obj\Debug\net9.0\WeblyTest2.sourcelink.json
