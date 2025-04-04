@@ -164,3 +164,9 @@ c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\WeblyTest2.d
 c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\WeblyTest2.runtimeconfig.json
 c:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\WeblyTest2.staticwebassets.endpoints.json
 c:\Users\vladi\Desktop\Projects\WeblyTest2\obj\Debug\net9.0\WeblyTest2.sourcelink.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\publish\web.config
+C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\publish\appsettings.Development.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\publish\appsettings.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\publish\WeblyTest2.deps.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\publish\WeblyTest2.runtimeconfig.json
+C:\Users\vladi\Desktop\Projects\WeblyTest2\bin\Debug\net9.0\publish\publish\publish\WeblyTest2.staticwebassets.endpoints.json
