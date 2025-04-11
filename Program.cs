@@ -11,7 +11,7 @@ builder.Services.AddControllers();
 // Добавляем сервис CORS с разрешением для всех источников
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll",
+    options.AddPolicy("AllowAll",  // <- Имя политики "AllowAll"
         policy =>
         {
             policy.AllowAnyOrigin()
@@ -22,8 +22,8 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Включаем CORS middleware
-app.UseCors("AllowFrontend");
+// Включаем CORS middleware (используем правильное имя политики)
+app.UseCors("AllowAll");  // <- Здесь должно быть "AllowAll", а не "AllowFrontend"
 
 // Автоматическое создание базы данных (если она отсутствует)
 using (var scope = app.Services.CreateScope())
